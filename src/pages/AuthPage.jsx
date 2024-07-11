@@ -81,6 +81,9 @@ export default function AuthPage() {
                         <i className="bi bi-google"></i> Sign up with Google
                     </Button>
                     <Button className="rounded-pill" variant="outline-dark">
+                        <i className="bi bi-apple"></i> Sign up with Face Book
+                    </Button>
+                    <Button className="rounded-pill" variant="outline-dark">
                         <i className="bi bi-apple"></i> Sign up with Apple
                     </Button>
                     <p style={{ textAlign: "center" }}>or</p>
