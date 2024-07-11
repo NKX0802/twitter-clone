@@ -11,7 +11,7 @@ import { useNavigate } from "react-router-dom";
 import { AuthContext } from "../components/AuthProvider";
 
 export default function AuthPage() {
-    const loginImage = "https://as2.ftcdn.net/v2/jpg/05/06/85/83/1000_F_506858322_PCK4IrnI4PpTglx4RY2hFiOm8B48zEYe.jpg";
+    const loginImage = "https://sig1.co/img-twitter-1";
 
     const [modalShow, setModalShow] = useState(null);
     const handleShowSignUp = () => setModalShow("SignUp");
